@@ -1,0 +1,2 @@
+# Identification-of-Fraud-or-Real-broadcast-data-using-LSTM-and-Vectorization
+Factors such as stocks, banking and weather across the world which are important factors for the global economy depend on feasible broadcast data. The most recent survey from Delloitte insights 2021 indicate that - Majority of the broadcast data or news consumers are facing a problem with the falsifying of data or faking of it. 
